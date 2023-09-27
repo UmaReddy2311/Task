@@ -1,0 +1,2 @@
+A file is added to a newly created branch
+but the main branch does not knows about the new file that was created in a different branch
